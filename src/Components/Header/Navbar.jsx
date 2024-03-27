@@ -4,7 +4,7 @@ import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
 
 const navigation = [
   { name: 'Home', href: '/', current: false },
-  { name: 'Events', href: '/events', current: false },
+  { name: 'Events', href: 'https://neurolux2k24.netlify.app/events', current: false },
   { name: 'Poster', href: '/poster', current: false },
   { name: 'Register', href: '/register', current: false },
   { name: 'Contact', href: '/contact', current: false },
