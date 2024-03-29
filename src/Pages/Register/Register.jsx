@@ -2,7 +2,7 @@
 
 const Register = () => {
   return (
-    <div>
+    <div className="pt-20">
       Register
     </div>
   )
