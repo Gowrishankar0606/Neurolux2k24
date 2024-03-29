@@ -15,13 +15,14 @@ const Home = () => {
             repeat={Infinity}
             speed={10}
           />
-          <button className="mt-8 px-6 py-4  bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:ring focus:ring-blue-400 text-2xl">
-            Register Now 
-          </button>
         </div>
-        
+        <div className='absolute bottom-6 left-0 right-0 text-center'>
+          <a href='./Register'><button className="px-6 py-4 shadow-md shadow-red-700 bg-gradient-to-r from-blue-800 to-red-800 text-black rounded-md focus:outline-none focus:ring focus:ring-green-500 text-2xl hover:bg-gradient-to-r hover:from-red-800 hover:to-blue-800 hover:text-white">
+            Register Now 
+          </button></a> 
+          </div>
         <img
-          className="w-full h-full object-cover"
+          className="w-full h-full object-cover pt-1"
           src="https://www.collegebatch.com/static/clg-gallery/vrs-college-of-engineering-technology-vrscet-villupuram-56397.jpg"
           alt="Background"
         />
