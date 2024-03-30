@@ -6,6 +6,7 @@ import Home from './Pages/Home/Home'
 import Poster from './Pages/Poster/Poster'
 import Register from './Pages/Register/Register'
 import Events from './Pages/Events/Events'
+
 function App() {
 
   return (
@@ -17,8 +18,9 @@ function App() {
           <Route exact path='/events' element={<Events/>}/>
           <Route exact path='/poster' element={<Poster/>}/>
           <Route exact path='/register' element={<Register/>}/>
-          <Route exact path='/contact' element={<Contact/>}/>
+          
        </Routes>
+       <Contact/>
      </Router>
   )
 }

@@ -8,7 +8,7 @@ const navigation = [
   { name: 'Events', path: '/events', current: false },
   { name: 'Poster', path: '/poster', current: false },
   { name: 'Register', path: '/register', current: false },
-  { name: 'Contact', path: '/contact', current: false },
+  { name: 'Contact', path: './contact', current: false },
 ];
 
 function classNames(...classes) {
