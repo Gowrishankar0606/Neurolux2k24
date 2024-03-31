@@ -58,9 +58,9 @@ const Events = () => {
           </p>
           <h3 className="text-xl md:text-2xl font-bold mb-4 text-blue-400">Co-ordinater</h3>
           <p className='text-sm md:text-base mb-6 text-justify'>
-             Mr.Gowri Shankar <br/>
+             Mr.Mohandass<br/>
              Final Year(cse)<br/>
-             Phone No: <span className='text-red-500'>9791864613 </span>
+             Phone No: <span className='text-red-500'>9344167375 </span>
           </p>
         </div>
       </div>
@@ -145,9 +145,9 @@ const Events = () => {
           </p>
           <h3 className="text-xl md:text-2xl font-bold mb-4 text-blue-400">Co-ordinater</h3>
           <p className='text-sm md:text-base mb-6 text-justify'>
-             Mr.Gowri Shankar <br/>
+             Mr.BHARATH <br/>
              Final Year(cse)<br/>
-             Phone No: <span className='text-red-500'>9791864613 </span>
+             Phone No: <span className='text-red-500'>9345607981 </span>
           </p>
         </div>
       </div>
@@ -174,9 +174,9 @@ const Events = () => {
           </p>
           <h3 className="text-xl md:text-2xl font-bold mb-4 text-blue-400">Co-ordinater</h3>
           <p className='text-sm md:text-base mb-6 text-justify'>
-             Mr.Gowri Shankar <br/>
+             Mr.Mohandass <br/>
              Final Year(cse)<br/>
-             Phone No: <span className='text-red-500'>9791864613 </span>
+             Phone No: <span className='text-red-500'>9344167375 </span>
           </p>
         </div>
       </div>

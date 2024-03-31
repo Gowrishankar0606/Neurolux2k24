@@ -9,7 +9,7 @@ const Home = () => {
             className="leading-30 tracking-wider"
             style={{ whiteSpace: 'pre-line', display: 'block' }}
             sequence={[
-              `WELCOME YOU ALL \nFOR \nNATIONAL LEVEL SYMPOSIUM\n\nNEUROLUX - 2K24`,
+              `WELCOME YOU ALL \nFOR \nNATIONAL LEVEL TECHNICAL SYMPOSIUM\n\nNEUROLUX - 2K24`,
               2000,
             ]}
             repeat={Infinity}
