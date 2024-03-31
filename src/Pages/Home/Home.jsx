@@ -18,7 +18,7 @@ const Home = () => {
         </div>  
         <div className='absolute bottom-35 md:bottom-10 left-0 right-0 text-center z-10'>
           <a href='./Register'>
-            <button className="px-6 py-4 shadow-md  shadow-red-700 bg-gradient-to-r from-blue-800 to-red-800 text-black rounded-md focus:outline-none focus:ring focus:ring-green-500 text-lg md:text-2xl hover:bg-gradient-to-r hover:from-red-800 hover:to-blue-800 hover:text-white">
+            <button className="px-6 py-4 shadow-md  shadow-red-700 bg-gradient-to-r from-blue-800 to-red-800 text-white rounded-md focus:outline-none focus:ring focus:ring-green-500 text-lg md:text-2xl hover:bg-gradient-to-r hover:from-red-800 hover:to-blue-800 hover:text-green-500">
               Register Now 
             </button>
           </a>
