@@ -11,22 +11,23 @@
               <div className="lg:w-9/12 lg:pr-4 mb-8 lg:mb-0">
                 <h2 className="text-3xl font-bold text-white mb-4">STAFF CO-ORDINATES</h2>
                 <p className="text-white">
-                  Mr. Ramash <br/>
+                  K.Ramash M.E., Ph.D<br/>
                   HOD, 
                   Department of Computer Science,<br/> 
-                  Ph: 1111111111 
+                  Ph: 9787811230 
                 </p>
                 <p className="text-white pt-7">
-                  Mr. Ramash <br/>
-                  HOD, 
+                   <br/>
+                  Dr. J.K. JothiKalpana, M.Tech.,Ph.D. <br/>
+                  Professor,<br/>
                   Department of Computer Science,<br/>
-                  Ph: 1111111111 
+                  Ph: 8870301652 
                 </p>
                 <p className="text-white pt-8">
-                  Mr. Ramash <br/>
-                  HOD, <br/>
+                 S.BharathiRaja, M.E., <br/>
+                  Assitant Professor <br/>
                   Department of Computer Science,<br/>
-                  Ph: 1111111111 
+                  Ph: 9943464424
                 </p>
                 {/* Add other staff coordinates here */}
               </div>
