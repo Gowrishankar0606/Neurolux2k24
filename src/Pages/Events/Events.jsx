@@ -80,11 +80,11 @@ const Events = () => {
           <h3 className="text-xl md:text-2xl font-bold mb-4 text-blue-400">Tech Act</h3>
           <p className="text-sm md:text-base mb-6 text-justify">
            The list of 10 technical words was given. One person in the Team act to convey
-           the words to the other team members. 
+           the words to the team members. 
           </p>
           <h3 className="text-xl md:text-2xl font-bold mb-4 text-blue-400">Rules</h3>
-          <p className='text-sm md:text-base mb-6 text-justify'>Individual Event<br/>
-             Time find the Thinks is 120 Sec <br/>
+          <p className='text-sm md:text-base mb-6 text-justify'><br/>
+             Time find the Words is 120 Sec <br/>
           </p>
           <h3 className="text-xl md:text-2xl font-bold mb-4 text-blue-400">Co-ordinater</h3>
           <p className='text-sm md:text-base mb-6 text-justify'>
@@ -108,7 +108,7 @@ const Events = () => {
         <div className="md:w-1/2 md:order-2 text-center md:text-left md:ml-20 ml-4 mr-4">
           <h3 className="text-xl md:text-2xl font-bold mb-4 text-blue-400">Brain Buster</h3>
           <p className="text-sm md:text-base mb-6 text-justify">
-           Common Fun event. Group of thinks images was show on the slide for a 90 Second and then ask the question about the image. <br/>
+           Common Fun event. Group of things images was show on the slide for a 90 Second and then ask the question about the image. <br/>
            Example: How many mouse on the image 
           </p>
           
@@ -139,12 +139,12 @@ const Events = () => {
           </p>
           <h3 className="text-xl md:text-2xl font-bold mb-4 text-blue-400">Rules</h3>
           <p className='text-sm md:text-base mb-6 text-justify'>Head set must<br/>
-             Download the Miramar <br/>
+             Download the Miramar Map <br/>
              <br/>
           </p>
           <h3 className="text-xl md:text-2xl font-bold mb-4 text-blue-400">Co-ordinater</h3>
           <p className='text-sm md:text-base mb-6 text-justify'>
-             Mr.BHARATH <br/>
+             Mr.Bharath <br/>
              Final Year(cse)<br/>
              Phone No: <span className='text-red-500'>9345607981 </span>
           </p>
@@ -222,7 +222,7 @@ const Events = () => {
         <div className="md:w-1/2 md:order-2 text-center md:text-left md:ml-20 ml-4 mr-4">
           <h3 className="text-xl md:text-2xl font-bold mb-4 text-blue-400">Observe the Campus</h3>
           <p className="text-sm md:text-base mb-6 text-justify">
-           You want to notice all the thinks in the campus we will ask the question about the campus. 
+           You want to notice all the things in the campus we will ask the question about the campus. 
            <br/>Example: What is the color of V.R.S Board 
           </p>
           <h3 className="text-xl md:text-2xl font-bold mb-4 text-blue-400">Co-ordinater</h3>

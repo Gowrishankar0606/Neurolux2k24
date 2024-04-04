@@ -11,23 +11,35 @@
               <div className="lg:w-9/12 lg:pr-4 mb-8 lg:mb-0">
                 <h2 className="text-3xl font-bold text-white mb-4">STAFF CO-ORDINATES</h2>
                 <p className="text-white">
-                  K.Ramash M.E., Ph.D<br/>
-                  HOD, 
+                  Mr. K.Ramash M.E., (Ph.D)<br/>
+                  HOD, <br/>
                   Department of Computer Science,<br/> 
                   Ph: 9787811230 
                 </p>
                 <p className="text-white pt-7">
                    <br/>
-                  Dr. J.K. JothiKalpana, M.Tech.,Ph.D. <br/>
+                  Mrs. Dr. J.K. JothiKalpana, M.Tech.,Ph.D. <br/>
                   Professor,<br/>
                   Department of Computer Science,<br/>
                   Ph: 8870301652 
                 </p>
                 <p className="text-white pt-8">
-                 S.BharathiRaja, M.E., <br/>
+                 Mr. S.BharathiRaja, M.E., <br/>
                   Assitant Professor <br/>
                   Department of Computer Science,<br/>
                   Ph: 9943464424
+                </p>
+                <p className="text-white pt-8">
+                Mr. K.Veeramanikandan, M.E.,Ph.D., <br/>
+                  Assitant Professor <br/>
+                  Department of Computer Science,<br/>
+                  Ph: 8668056530
+                </p>
+                <p className="text-white pt-8">
+                Mr.N. Gobinathan, M.E.,Ph.D., <br/>
+                  Assitant Professor <br/>
+                  Department of Computer Science,<br/>
+                  Ph: 8667409534
                 </p>
                 {/* Add other staff coordinates here */}
               </div>
@@ -36,20 +48,34 @@
               <div className="lg:w-96 ">
                 <h2 className="text-2xl font-bold text-white mb-4">STUDENT CO-ORDINATES</h2>
                 <p className="text-white">
-                  Mr.P. GOWRI SHANKAR <br/>
-                  Final Year<br/>
+                  Mr.P. Gowri Shankar <br/>
+                  Final Year,<br/>
+                   Computer Science Engineering,<br/>
                   Ph: 9791864613
                 </p>
                 <p className="text-white pt-10">
-                Mr.K. BHARATH <br/>
-                  Final Year<br/>
+                Mr.K. Bharath <br/>
+                  Final Year,<br/>
+                  Computer Science Engineering,<br/>
                   Ph: 9345607981
                 </p>
                 <p className="text-white pt-10">
-                  Mr.S.SUBASH <br/>
-                  Final Year (CSE), <br/>
-                
+                  Mr.S.Subash <br/>
+                  Final Year, <br/>
+                  Computer Science Engineering,<br/>
                   Ph: 9894091972
+                </p>
+                <p className="text-white pt-10">
+                  Mr.V. Mohandass <br/>
+                  Final Year, <br/>
+                  Computer Science Engineering,<br/>
+                  Ph: 9344167375
+                </p>
+                <p className="text-white pt-10">
+                  Mr.V.Varadhan <br/>
+                  Final Year, <br/>
+                 Computer Science Engineering,<br/>
+                  Ph: 6374431404
                 </p>
                 {/* Add other student coordinates here */}
               </div>
