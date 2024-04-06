@@ -2,7 +2,7 @@ import { TypeAnimation } from 'react-type-animation';
 
 const Home = () => {
   return (
-    <div className="flex justify-center items-center min-h-screen bg-gray-600 ">
+    <div className="flex justify-center items-center min-h-screen bg-slate-600 ">
       <div className="w-full h-full">
         <div className='absolute top-20 md:top-40 left-0 right-0 text-center pt-4 font-bold text-3xl md:text-5xl bg-gradient-to-r from-blue-800 to-red-800 text-transparent bg-clip-text drop-shadow-[2px_-6px_2px_black] z-10'>
           <TypeAnimation 
@@ -22,6 +22,7 @@ const Home = () => {
               Register Now 
             </button>
           </a>
+          <p className='pt-2'>Venue: V.R.S College of Engineering and Technology <br/>Arasur 607 107, Villupuram District</p>
         </div>
       </div>
     </div>

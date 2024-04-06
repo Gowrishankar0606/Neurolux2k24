@@ -30,13 +30,13 @@
                   Ph: 9943464424
                 </p>
                 <p className="text-white pt-8">
-                Mr. K.Veeramanikandan, M.E.,Ph.D., <br/>
+                Mr. K.Veeramanikandan, M.E.,(Ph.D) <br/>
                   Assitant Professor <br/>
                   Department of Computer Science,<br/>
                   Ph: 8668056530
                 </p>
                 <p className="text-white pt-8">
-                Mr.N. Gobinathan, M.E.,Ph.D., <br/>
+                Mr.N. Gobinathan, M.E.,(Ph.D) <br/>
                   Assitant Professor <br/>
                   Department of Computer Science,<br/>
                   Ph: 8667409534
